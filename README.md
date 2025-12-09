@@ -1,9 +1,9 @@
 
 
 ### Hi there, I'm **Gloria Nwachukwu** 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GloriaNwachukwu-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glorianwachukwu/)
-[![Email](https://img.shields.io/badge/Email-rianwachukwu@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rianwachukwu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-glorianwachukwu1-black?style=flat-square&logo=github&logoColor=white)](https://github.com/glorianwachukwu1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GloriaNwachukwu-blue?style=flat-square&logo=linkedin&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-rianwachukwu@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-glorianwachukwu1-black?style=flat-square&logo=github&logoColor=white)]
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=google-chrome&logoColor=white)](https://glorianwachukwu1.github.io/)
 
 
