@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/glorianwachukwu1/glorianwachukwu1/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
