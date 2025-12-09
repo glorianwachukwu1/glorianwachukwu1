@@ -48,6 +48,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
+---
+
 ### **Machine Learning & Deep Learning**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
@@ -57,9 +59,13 @@
 ![RandomForest](https://img.shields.io/badge/Random%20Forest-000000?logo=treehouse&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression-000000?logo=google-analytics&logoColor=white)
 
+---
+
 ### **Natural Language Processing**
 ![BERT](https://img.shields.io/badge/BERT-000000?logo=google&logoColor=white)
 ![KnowledgeGraph](https://img.shields.io/badge/Knowledge%20Graphs-4285F4?logo=google&logoColor=white)
+
+---
 
 ### **Visualization & Data Tools**
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
@@ -68,11 +74,15 @@
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F08705?logo=lucidchart&logoColor=white)
 ![Visio](https://img.shields.io/badge/Visio-3955A3?logo=microsoft-visio&logoColor=white)
 
+---
+
 ### **Frontend & Web Dev**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
+---
 
 ### **Product, UX & Systems Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
@@ -80,6 +90,8 @@
 ![Wireframing](https://img.shields.io/badge/Wireframing-000000?logo=figma&logoColor=white)
 ![ProcessModeling](https://img.shields.io/badge/Process%20Modeling-000000?logo=azure-devops&logoColor=white)
 ![UAT](https://img.shields.io/badge/UAT-000000?logo=checkmarx&logoColor=white)
+
+---
 
 ### **Enterprise & Collaboration Tools**
 ![PeopleSoft](https://img.shields.io/badge/Oracle%20PeopleSoft-C74634?logo=oracle&logoColor=white)
@@ -93,19 +105,21 @@
 ![Asana](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white)
 
+---
+
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
 
+---
 
 ## 📜 Certifications
 
-![CBAP](https://img.shields.io/badge/CBAP-Certified%20Business%20Analysis%20Professional-blue?logo=expertise&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum%20&%20Kanban-FF6F00?logo=agile&logoColor=white)
-![ProjectManagement](https://img.shields.io/badge/Project%20Management-Waterfall%20%7C%20Hybrid-1A73E8?logo=google&logoColor=white)
-![UXResearch](https://img.shields.io/badge/UX_Research-Professional-black?logo=figma&logoColor=white)
-![AI_Analytics](https://img.shields.io/badge/AI_&_Analytics-Advanced-green?logo=google&logoColor=white)
+[![PMP](https://img.shields.io/badge/PMP-Project%20Management%20Professional-1A73E8)](https://www.linkedin.com/in/glorianwachukwu/)
+[![CBAP](https://img.shields.io/badge/CBAP-Certified%20Business%20Analysis%20Professional-blue)](https://www.linkedin.com/in/glorianwachukwu/)
+[![CSM](https://img.shields.io/badge/CSM-Certified%20Scrum%20Master-FF6F00)](https://www.linkedin.com/in/glorianwachukwu/)
+
 
 
 ---
