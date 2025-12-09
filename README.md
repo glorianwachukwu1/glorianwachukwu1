@@ -125,7 +125,7 @@
 ---
 
 <div align="center">
-  <h3>✨ Quote ✨</h3>
+  <h3>Quote </h3>
   <em><strong>"Anything can be learned."</strong></em><br>
   — <strong> Shinichi Suzuki</strong>
 </div>
