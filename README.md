@@ -61,25 +61,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=glorianwachukwu1&show_icons=true&theme=radical" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorianwachukwu1&layout=compact&theme=radical" />
-
-<img width="98%" src="https://streak-stats.demolab.com/?user=glorianwachukwu1&theme=radical" />
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=glorianwachukwu1&theme=monokai&margin-w=5&margin-h=5)
-
----
 
 ## ✨ Quote
 
-> *"The most powerful systems are built by people who believe improvement is always possible."*  
-> — **Gloria N.**
+<div align="center">
+  <h3>✨ Quote ✨</h3>
+  <em><strong>"Anything can be learned."</strong></em><br>
+  — <strong> - Shinichi Suzuki</strong>
+</div>
+
 
 ---
 
