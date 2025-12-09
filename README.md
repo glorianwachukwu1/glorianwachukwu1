@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-glorianwachukwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glorianwachukwu/)](https://www.linkedin.com/in/glorianwachukwu/)
 [![Gmail Badge](https://img.shields.io/badge/-rianwachukwu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rianwachukwu@gmail.com)](mailto:glorianwac@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-glorianwachukwu1-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/glorianwachukwu1)](https://github.com/glorianwachukwu1)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Google-chrome)](https://www.glorianwachukwu.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Google-chrome)](https://glorianwachukwu1.github.io/)
 
 
 ##About Me
@@ -33,11 +33,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glorianwachukwu/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/glorianwachukwu1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?logo=googlechrome&logoColor=white)](https://www.glorianwachukwu.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?logo=googlechrome&logoColor=white)](https://glorianwachukwu1.github.io/)
 [![Email](https://img.shields.io/badge/Email-Write%20Me-red?logo=gmail&logoColor=white)](mailto:rianwachukwu@gmail.com)
 
 
-## 🛠 Tech Stack
 
 ## 🛠 Tech Stack
 
@@ -49,8 +48,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
----
-
 ### **Machine Learning & Deep Learning**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
@@ -60,13 +57,9 @@
 ![RandomForest](https://img.shields.io/badge/Random%20Forest-000000?logo=treehouse&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression-000000?logo=google-analytics&logoColor=white)
 
----
-
 ### **Natural Language Processing**
 ![BERT](https://img.shields.io/badge/BERT-000000?logo=google&logoColor=white)
 ![KnowledgeGraph](https://img.shields.io/badge/Knowledge%20Graphs-4285F4?logo=google&logoColor=white)
-
----
 
 ### **Visualization & Data Tools**
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
@@ -75,15 +68,11 @@
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F08705?logo=lucidchart&logoColor=white)
 ![Visio](https://img.shields.io/badge/Visio-3955A3?logo=microsoft-visio&logoColor=white)
 
----
-
 ### **Frontend & Web Dev**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-
----
 
 ### **Product, UX & Systems Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
@@ -91,8 +80,6 @@
 ![Wireframing](https://img.shields.io/badge/Wireframing-000000?logo=figma&logoColor=white)
 ![ProcessModeling](https://img.shields.io/badge/Process%20Modeling-000000?logo=azure-devops&logoColor=white)
 ![UAT](https://img.shields.io/badge/UAT-000000?logo=checkmarx&logoColor=white)
-
----
 
 ### **Enterprise & Collaboration Tools**
 ![PeopleSoft](https://img.shields.io/badge/Oracle%20PeopleSoft-C74634?logo=oracle&logoColor=white)
@@ -106,14 +93,11 @@
 ![Asana](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white)
 
----
-
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
 
----
 
 ## 📜 Certifications
 
