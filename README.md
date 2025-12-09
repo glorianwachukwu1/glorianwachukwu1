@@ -2,7 +2,7 @@
 
 ### Hi there, I'm **Gloria Nwachukwu** 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-glorianwachukwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glorianwachukwu/)](https://www.linkedin.com/in/glorianwachukwu/)
+[![Linkedin Badge](https://img.shields.io/badge/-glorianwachukwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glorianwachukwu/)]
 [![Gmail Badge](https://img.shields.io/badge/-rianwachukwu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rianwachukwu@gmail.com)](mailto:glorianwac@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-glorianwachukwu1-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/glorianwachukwu1)](https://github.com/glorianwachukwu1)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Google-chrome)](https://glorianwachukwu1.github.io/)
