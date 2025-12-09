@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/glorianwachukwu1/glorianwachukwu1/blob/master/analyst.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/glorianwachukwu1/glorianwachukwu1/blob/main/analyst.gif?raw=true" width="420" height="330">
+
 
 
 
