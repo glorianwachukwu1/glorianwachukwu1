@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github.com/glorianwachukwu1/glorianwachukwu1/blob/main/analyst.gif?raw=true" width="420" height="330" />
 
-##About Me
+### About Me
 
 🙋‍♀️ I'm passionate about AI, data analytics, and building intelligent systems.  
 📚 I’m currently deepening my skills in machine learning, UX research, and systems design.  
