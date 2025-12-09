@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 About Me
+About Me
 
 🙋‍♀️ I'm passionate about AI, data analytics, and building intelligent systems.  
 📚 I’m currently deepening my skills in machine learning, UX research, and systems design.  
@@ -61,13 +61,10 @@
 
 ---
 
-
-## ✨ Quote
-
 <div align="center">
   <h3>✨ Quote ✨</h3>
   <em><strong>"Anything can be learned."</strong></em><br>
-  — <strong> - Shinichi Suzuki</strong>
+  — <strong> Shinichi Suzuki</strong>
 </div>
 
 
