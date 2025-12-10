@@ -122,6 +122,18 @@
 [![CBAP](https://img.shields.io/badge/CBAP-Certified%20Business%20Analysis%20Professional-blue)](https://www.linkedin.com/in/glorianwachukwu/)
 [![CSM](https://img.shields.io/badge/CSM-Certified%20Scrum%20Master-FF6F00)](https://www.linkedin.com/in/glorianwachukwu/)
 
+---
+
+
+##Open Source Contributions
+<ul>
+  <li>
+    <a href="https://github.com/ITWSDataScience/Impact_on_Solar_Enegy_Farms_Due_to_Extreme_Weather_Events_Group6_Fall2023" target="_blank">
+      Impact on Solar Energy Farms Due to Extreme Weather Events (ITWS Data Science)
+    </a>
+    – Contributed data collection, analysis, reporting enhancements, and documentation improvements.
+  </li>
+</ul>
 
 
 ---
