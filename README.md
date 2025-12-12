@@ -32,14 +32,15 @@
 ✨ Motto: Learn ➜ Build ➜ Improve ➜ Repeat  
 
 
-## 💻 Things I Love
 
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-- Data Analytics 📊  
-- Artificial Intelligence 🤖  
-- Systems Design 🛠️  
-- Machine Learning 🔎  
-- Product & UX Research 🎨  
+## Things I Love <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+
+- Python 
+- Data Analytics  
+- Artificial Intelligence 
+- Systems Design 
+- Machine Learning 
+- Product & UX Research 
 
 
 ---
