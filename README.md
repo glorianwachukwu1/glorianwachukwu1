@@ -12,12 +12,13 @@
 
 ### About Me
 
-🙋‍♀️ I'm passionate about AI, data analytics, and building intelligent systems.  
+🙋‍♀️ I'm passionate about AI, data analytics, intelligent systems, and process improvement.  
 📚 I’m currently deepening my skills in machine learning, UX research, and systems design.  
 🤝 I’m open to collaborating on data, AI, ML, and research-driven projects.  
 💬 Ask me about analytics, intelligent systems, product thinking & workflow optimization.  
-😄 Pronouns: She/her  
+
 ⚡ Fun fact: I believe anyone is smart — you just have to give them the right chance and the right tools.  
+
 ✨ Motto: Learn ➜ Build ➜ Improve ➜ Repeat  
 
 
