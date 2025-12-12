@@ -1,6 +1,15 @@
 
 
 ### Hi there, I'm **Gloria Nwachukwu** 👋
+
+<!-- ## 🌐 Socials -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glorianwachukwu/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/glorianwachukwu1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?logo=googlechrome&logoColor=white)](https://glorianwachukwu1.github.io/)
+[![Email](https://img.shields.io/badge/Email-Write%20Me-red?logo=gmail&logoColor=white)](mailto:rianwachukwu@gmail.com)
+
+
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GloriaNwachukwu-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glorianwachukwu/)
 [![Email](https://img.shields.io/badge/Email-rianwachukwu@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rianwachukwu@gmail.com)
@@ -32,13 +41,6 @@
 - Machine Learning 🔎  
 - Product & UX Research 🎨  
 
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glorianwachukwu/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/glorianwachukwu1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?logo=googlechrome&logoColor=white)](https://glorianwachukwu1.github.io/)
-[![Email](https://img.shields.io/badge/Email-Write%20Me-red?logo=gmail&logoColor=white)](mailto:rianwachukwu@gmail.com)
 
 ---
 
