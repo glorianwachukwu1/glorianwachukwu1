@@ -39,6 +39,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?logo=googlechrome&logoColor=white)](https://glorianwachukwu1.github.io/)
 [![Email](https://img.shields.io/badge/Email-Write%20Me-red?logo=gmail&logoColor=white)](mailto:rianwachukwu@gmail.com)
 
+---
 
 
 ## 🛠 Tech Stack
