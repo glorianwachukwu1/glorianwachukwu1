@@ -29,7 +29,8 @@
 
 ⚡ Fun fact: I believe anyone is smart — you just have to give them the right chance and the right tools.  
 
-✨ Motto: Learn ➜ Build ➜ Improve ➜ Repeat  
+
+Motto: Learn ➜ Build ➜ Improve ➜ Repeat  
 
 
 
